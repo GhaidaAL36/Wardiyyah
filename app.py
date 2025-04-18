@@ -3,6 +3,7 @@ from flask_cors import CORS
 import numpy as np
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing import image
+from flask import Flask, render_template
 import io
 import json
 
@@ -75,6 +76,11 @@ def predict_flower():
         'description': flower_data.get("description", "— لا يوجد وصف متاح حالياً —"),
         'confidence': confidence_percent
     })
+
+@app.route("/")
+def index():
+    return render_template("index.html")
+
 
 if __name__ == '__main__':
     app.run(debug=True)
