@@ -1,0 +1,512 @@
+{
+  "class_001": {
+    "name_en": "Pink Primrose",
+    "name_ar": "زهرة الربيع الوردية",
+    "description": ""
+  },
+  "class_002": {
+    "name_en": "Hard-leaved Pocket Orchid",
+    "name_ar": "السحلبية الجيبية ذات الأوراق الصلبة",
+    "description": ""
+  },
+  "class_003": {
+    "name_en": "Canterbury Bells",
+    "name_ar": "أجراس كانتربري",
+    "description": ""
+  },
+  "class_004": {
+    "name_en": "Sweet Pea",
+    "name_ar": "البازلاء الحلوة",
+    "description": ""
+  },
+  "class_005": {
+    "name_en": "English Marigold",
+    "name_ar": "الأذريون الإنجليزي",
+    "description": ""
+  },
+  "class_006": {
+    "name_en": "Tiger Lily",
+    "name_ar": "زنبق النمر",
+    "description": "زنبق قوي يتحمل الظروف المختلفة، يحتاج إلى شمس جزئية وتربة جيدة التصريف."
+  },
+  "class_007": {
+    "name_en": "Moon Orchid",
+    "name_ar": "السحلبية القمرية",
+    "description": "سحلبية رقيقة تنمو في الضوء غير المباشر والرطوبة العالية، وتحتاج إلى رعاية دقيقة."
+  },
+  "class_008": {
+    "name_en": "Bird of Paradise",
+    "name_ar": "طائر الجنة",
+    "description": ""
+  },
+  "class_009": {
+    "name_en": "Monkshood",
+    "name_ar": "قلنسوة الراهب",
+    "description": ""
+  },
+  "class_010": {
+    "name_en": "Globe Thistle",
+    "name_ar": "الشوك الكروي",
+    "description": ""
+  },
+  "class_011": {
+    "name_en": "Snapdragon",
+    "name_ar": "فم التنين",
+    "description": ""
+  },
+  "class_012": {
+    "name_en": "Colt's Foot",
+    "name_ar": "قدم الحصان",
+    "description": ""
+  },
+  "class_013": {
+    "name_en": "King Protea",
+    "name_ar": "بروتيا الملك",
+    "description": ""
+  },
+  "class_014": {
+    "name_en": "Spear Thistle",
+    "name_ar": "الشوك الرمح",
+    "description": ""
+  },
+  "class_015": {
+    "name_en": "Yellow Iris",
+    "name_ar": "السوسن الأصفر",
+    "description": ""
+  },
+  "class_016": {
+    "name_en": "Globe-Flower",
+    "name_ar": "زهرة الكرة",
+    "description": ""
+  },
+  "class_017": {
+    "name_en": "Purple Coneflower",
+    "name_ar": "زهرة المخروط الأرجوانية",
+    "description": ""
+  },
+  "class_018": {
+    "name_en": "Peruvian Lily",
+    "name_ar": "زنبق بيرو",
+    "description": ""
+  },
+  "class_019": {
+    "name_en": "Balloon Flower",
+    "name_ar": "زهرة البالون",
+    "description": ""
+  },
+  "class_020": {
+    "name_en": "giant white arum lily",
+    "name_ar": "زنبق الأروم الأبيض العملاق",
+    "description": ""
+  },
+  "class_021": {
+    "name_en": "fire lily",
+    "name_ar": "زنبق النار",
+    "description": "زنبق ينمو في المناطق الحارة، يحتاج إلى تربة رملية وري معتدل."
+  },
+  "class_022": {
+    "name_en": "pincushion flower",
+    "name_ar": "زهرة الوسادة الدبوسية",
+    "description": ""
+  },
+  "class_023": {
+    "name_en": "fritillary",
+    "name_ar": "زهرة الفريتيلاريا",
+    "description": ""
+  },
+  "class_024": {
+    "name_en": "red ginger",
+    "name_ar": "الزنجبيل الأحمر",
+    "description": ""
+  },
+  "class_025": {
+    "name_en": "grape hyacinth",
+    "name_ar": "زنبق العنب",
+    "description": ""
+  },
+  "class_026": {
+    "name_en": "corn poppy",
+    "name_ar": "خشخاش الذرة",
+    "description": ""
+  },
+  "class_027": {
+    "name_en": "prince of wales feathers",
+    "name_ar": "ريش أمير ويلز",
+    "description": ""
+  },
+  "class_028": {
+    "name_en": "stemless gentian",
+    "name_ar": "زهرة الجنتيان عديمة الساق",
+    "description": ""
+  },
+  "class_029": {
+    "name_en": "artichoke",
+    "name_ar": "الخرشوف",
+    "description": ""
+  },
+  "class_030": {
+    "name_en": "sweet william",
+    "name_ar": "زهرة ويليام الحلوة",
+    "description": ""
+  },
+  "class_031": {
+    "name_en": "carnation",
+    "name_ar": "زهرة القرنفل",
+    "description":  "تزدهر في الأجواء المعتدلة، وتحتاج إلى شمس جزئية وتربة رطبة جيدة التصريف."
+  },
+  "class_032": {
+    "name_en": "garden phlox",
+    "name_ar": "فلوكس الحديقة",
+    "description": ""
+  },
+  "class_033": {
+    "name_en": "love in the mist",
+    "name_ar": "الحب في الضباب",
+    "description": ""
+  },
+  "class_034": {
+    "name_en": "mexican aster",
+    "name_ar": "زهرة النجمة المكسيكية",
+    "description": ""
+  },
+  "class_035": {
+    "name_en": "Cape Flower",
+    "name_ar": "زهرة الرأس",
+    "description": ""
+  },
+  "class_036": {
+    "name_en": "Cattleya Orchid",
+    "name_ar": "سحلبية كاتليا",
+    "description": "سحلبية استوائية مشهورة بألوانها، تُفضل الرطوبة والضوء المنتشر."
+  },
+  "class_037": {
+    "name_en": "Nerine",
+    "name_ar": "زهرة النيرين",
+    "description": ""
+  },
+  "class_038": {
+    "name_en": "great masterwort",
+    "name_ar": "زهرة الماستروت العظيمة",
+    "description": ""
+  },
+  "class_039": {
+    "name_en": "siam tulip",
+    "name_ar": "زهرة التوليب السيامية",
+    "description":  "زهرة استوائية تنمو في مناطق دافئة، تحتاج إلى تربة رطبة وضوء غير مباشر."
+  },
+  "class_040": {
+    "name_en": "lenten rose",
+    "name_ar": "زهرة الورد الصوم",
+    "description": ""
+  },
+  "class_041": {
+    "name_en": "barbeton daisy",
+    "name_ar": "زهرة الأقحوان باربتون",
+    "description": ""
+  },
+  "class_042": {
+    "name_en": "daffodil",
+    "name_ar": "زهرة النرجس",
+    "description": "تزدهر في أواخر الشتاء والربيع، تحتاج إلى تربة جيدة التصريف وشمس معتدلة."
+  },
+  "class_043": {
+    "name_en": "sword lily",
+    "name_ar": "زنبق السيف",
+    "description": ""
+  },
+  "class_044": {
+    "name_en": "poinsettia",
+    "name_ar": "زهرة البوينسيتيا",
+    "description":  "تُزهر في الشتاء، وتحتاج إلى ضوء ساطع غير مباشر وتُروى باعتدال."
+  },
+  "class_045": {
+    "name_en": "bolero deep blue",
+    "name_ar": "زهرة البوليرو الأزرق العميق",
+    "description": ""
+  },
+  "class_046": {
+    "name_en": "wallflower",
+    "name_ar": "زهرة الجدار",
+    "description": ""
+  },
+  "class_047": {
+    "name_en": "marigold",
+    "name_ar": "زهرة الأذريون",
+    "description": ""
+  },
+  "class_048": {
+    "name_en": "buttercup",
+    "name_ar": "زهرة الزبدة",
+    "description": ""
+  },
+  "class_049": {
+    "name_en": "oxeye daisy",
+    "name_ar": "زهرة الأقحوان عين الثور",
+    "description": ""
+  },
+  "class_050": {
+    "name_en": "common dandelion",
+    "name_ar": "زهرة الهندباء الشائعة",
+    "description": ""
+  },
+  "class_051": {
+    "name_en": "petunia",
+    "name_ar": "زهرة البيتونيا",
+    "description": ""
+  },
+  "class_052": {
+    "name_en": "wild pansy",
+    "name_ar": "زهرة البنفسج البرية",
+    "description": ""
+  },
+  "class_053": {
+    "name_en": "primula",
+    "name_ar": "زهرة البريمولا",
+    "description": ""
+  },
+  "class_054": {
+    "name_en": "sunflower",
+    "name_ar": "زهرة عباد الشمس",
+    "description": "تحتاج إلى أشعة الشمس الكاملة، وتُزرع غالبًا في تربة جيدة التصريف، وتُستخدم في الزينة وإنتاج البذور."
+  },
+  "class_055": {
+    "name_en": "Tree Mallow",
+    "name_ar": "زهرة الخبيزة الشجرية",
+    "description": ""
+  },
+  "class_056": {
+    "name_en": "bishop of llandaff",
+    "name_ar": "زهرة أسقف لانداف",
+    "description": ""
+  },
+  "class_057": {
+    "name_en": "gaura",
+    "name_ar": "زهرة الغورا",
+    "description": ""
+  },
+  "class_058": {
+    "name_en": "geranium",
+    "name_ar": "زهرة الجيرانيوم",
+    "description": ""
+  },
+  "class_059": {
+    "name_en": "orange dahlia",
+    "name_ar": "زهرة الداليا البرتقالية",
+    "description": ""
+  },
+  "class_060": {
+    "name_en": "pink-yellow dahlia",
+    "name_ar": "زهرة الداليا الوردية الصفراء",
+    "description": ""
+  },
+  "class_061": {
+    "name_en": "Red Ginger",
+    "name_ar": "الزنجبيل الأحمر",
+    "description": ""
+  },
+  "class_062": {
+    "name_en": "Windflower",
+    "name_ar": "زهرة الرياح",
+    "description": ""
+  },
+  "class_063": {
+    "name_en": "Black-eyed Susan",
+    "name_ar": "زهرة سوزان سوداء العينين",
+    "description": ""
+  },
+  "class_064": {
+    "name_en": "Convolvulus arvensis",
+    "name_ar": "زهرة العليق البري",
+    "description": ""
+  },
+  "class_065": {
+    "name_en": "Eschscholzia californica",
+    "name_ar": "زهرة الخشخاش الكاليفورني",
+    "description": ""
+  },
+  "class_066": {
+    "name_en": "Osteospermum",
+    "name_ar": "زهرة الأوستيوسبيرموم",
+    "description": ""
+  },
+  "class_067": {
+    "name_en": "Crocus vernus",
+    "name_ar": "زهرة الزعفران الربيعي",
+    "description": ""
+  },
+  "class_068": {
+    "name_en": "Iris germanica",
+    "name_ar": "زهرة السوسن الألماني",
+    "description": ""
+  },
+  "class_069": {
+    "name_en": "Anemone nemorosa",
+    "name_ar": "زهرة شقائق النعمان النيموروسا",
+    "description": ""
+  },
+  "class_070": {
+    "name_en": "tree poppy",
+    "name_ar": "زهرة الخشخاش الشجري",
+    "description": ""
+  },
+  "class_071": {
+    "name_en": "gazania",
+    "name_ar": "زهرة الجازانيا",
+    "description": ""
+  },
+  "class_072": {
+    "name_en": "azalea",
+    "name_ar": "زهرة الأزاليا",
+    "description": ""
+  },
+  "class_073": {
+    "name_en": "water lily",
+    "name_ar": "زهرة زنبق الماء",
+    "description": ""
+  },
+  "class_074": {
+    "name_en": "rose",
+    "name_ar": "زهرة الجوري",
+    "description": "تنمو في المناخ المعتدل، وتُروى بانتظام وتحتاج إلى تقليم مستمر، وتُستخدم في العطور والحدائق."
+  },
+  "class_075": {
+    "name_en": "thorn apple",
+    "name_ar": "زهرة التفاح الشوكي",
+    "description": ""
+  },
+  "class_076": {
+    "name_en": "morning glory",
+    "name_ar": "زهرة مجد الصباح",
+    "description": ""
+  },
+  "class_077": {
+    "name_en": "passion flower",
+    "name_ar": "زهرة العاطفة",
+    "description": ""
+  },
+  "class_078": {
+    "name_en": "lotus",
+    "name_ar": "زهرة اللوتس",
+    "description": "تنمو في المياه الراكدة، تحتاج إلى شمس كاملة وبيئة مائية دافئة."
+  },
+  "class_079": {
+    "name_en": "toad lily",
+    "name_ar": "زهرة زنبق الضفدع",
+    "description": ""
+  },
+  "class_080": {
+    "name_en": "anthurium",
+    "name_ar": "زهرة الأنثوريوم",
+    "description": ""
+  },
+  "class_081": {
+    "name_en": "frangipani",
+    "name_ar": "زهرة الفرانجيباني",
+    "description": ""
+  },
+  "class_082": {
+    "name_en": "clematis",
+    "name_ar": "زهرة الكليماتيس",
+    "description": ""
+  },
+  "class_083": {
+    "name_en": "hibiscus",
+    "name_ar": "زهرة الكركديه",
+    "description": "نبات استوائي مزهر، يُفضل الشمس الكاملة والرطوبة، ويُستخدم في المشروبات."
+  },
+  "class_084": {
+    "name_en": "columbine",
+    "name_ar": "زهرة الكولومبين",
+    "description": ""
+  },
+  "class_085": {
+    "name_en": "desert-rose",
+    "name_ar": "زهرة وردة الصحراء",
+    "description": ""
+  },
+  "class_086": {
+    "name_en": "Malva sylvestris",
+    "name_ar": "الخبازى البرية",
+    "description": "نبات بري يُستخدم تقليديًا في الطب الشعبي، يزدهر في المروج والشمس الجزئية."
+  },
+  "class_087": {
+    "name_en": "Magnolia grandiflora",
+    "name_ar": "زهرة الماغنوليا الكبيرة",
+    "description": ""
+  },
+  "class_088": {
+    "name_en": "Cyclamen persicum",
+    "name_ar": "زهرة السيكلامين الفارسي",
+    "description": ""
+  },
+  "class_089": {
+    "name_en": "Tropaeolum majus",
+    "name_ar": "زهرة الكبوسين الكبيرة",
+    "description": ""
+  },
+  "class_090": {
+    "name_en": "Canna indica",
+    "name_ar": "زهرة الكانا الهندية",
+    "description": ""
+  },
+  "class_091": {
+    "name_en": "Hippeastrum",
+    "name_ar": "زهرة الهيبستروم",
+    "description": ""
+  },
+  "class_092": {
+    "name_en": "Monarda didyma",
+    "name_ar": "زهرة الموناردا ديديما",
+    "description": ""
+  },
+  "class_093": {
+    "name_en": "Tillandsia cyanea",
+    "name_ar": "زهرة التيلاندسيا الزرقاء",
+    "description": ""
+  },
+  "class_094": {
+    "name_en": "Canterbury Bells",
+    "name_ar": "أجراس كانتربري",
+    "description": ""
+  },
+  "class_095": {
+    "name_en": "Bougainvillea",
+    "name_ar": "الجهنمية",
+    "description": "نبتة قوية تتحمل الجفاف، تحتاج إلى شمس كاملة وتربة خفيفة."
+  },
+  "class_096": {
+    "name_en": "camellia",
+    "name_ar": "زهرة الكاميليا",
+    "description": ""
+  },
+  "class_097": {
+    "name_en": "Mallow",
+    "name_ar": "زهرة الخبيزة",
+    "description": ""
+  },
+  "class_098": {
+    "name_en": "mexican petunia",
+    "name_ar": "زهرة البيتونيا المكسيكية",
+    "description": ""
+  },
+  "class_099": {
+    "name_en": "bromelia",
+    "name_ar": "زهرة البرومليا",
+    "description": ""
+  },
+  "class_100": {
+    "name_en": "blanket flower",
+    "name_ar": "زهرة البطانية",
+    "description": ""
+  },
+  "class_101": {
+    "name_en": "Trumpet Creeper",
+    "name_ar": "زهرة البوق الزاحف",
+    "description": ""
+  },
+  "class_102": {
+    "name_en": "Blackberry Lily",
+    "name_ar": "زهرة زنبق التوت الأسود",
+    "description": ""
+  }
+}
