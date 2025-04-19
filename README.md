@@ -41,7 +41,11 @@ Back-End:
 --assets/ # Visual assets 
 --templates/ 
 --index.html # Home page 
---flower_model.h5 # Trained ML model ├── flower_info.json # Flower details (Arabic & English) ├── flower_class_labels.txt # Class labels ├── app.py # Flask server ├── requirements.txt # Python dependencies
+--flower_model.h5 # Trained ML model 
+--flower_info.json # Flower details 
+--flower_class_labels.txt # Class labels
+--app.py # Flask server
+--requirements.txt # Python dependencies
 
 
 ## How to Run Locally
