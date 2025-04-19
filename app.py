@@ -44,7 +44,6 @@ def predict_flower():
     class_id = class_labels[predicted_index]
     flower_data = flower_info.get(class_id, None)
 
-    # فلترة حسب الثقة
     confidence_percent = round(confidence * 100, 2)
 
     flower_name = flower_data.get("name_ar") if flower_data else None
@@ -68,7 +67,6 @@ def predict_flower():
             'confidence': confidence_percent
         })
 
-    # الحالة الأفضل (الدقة عالية)
     return jsonify({
         'label': class_id,
         'flower': flower_data.get("name_ar", "زهرة غير معروفة"),
