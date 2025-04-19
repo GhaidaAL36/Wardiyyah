@@ -20,21 +20,11 @@ with open("flower_class_labels.txt", "r", encoding="utf-8") as f:
 with open("flower_info.json", "r", encoding="utf-8") as f:
     flower_info = json.load(f)
 
-""" @app.route('/app', methods=['POST'])
+@app.route('/app', methods=['POST'])
 #read data img
 def predict_flower():
     if 'file' not in request.files:
-        return jsonify({'error': 'لم يتم تحميل صورة'}), 400 """
-
-@app.route('/app', methods=['POST'])
-def predict_flower():
-    return jsonify({
-        'label': 'class_000',
-        'flower': "زهرة تجريبية",
-        'flower_en': "Test Flower",
-        'description': "هذا رد تجريبي للتأكد من أن الاتصال يعمل.",
-        'confidence': 99.99
-    })
+        return jsonify({'error': 'لم يتم تحميل صورة'}), 400
 
 
     file = request.files['file']
