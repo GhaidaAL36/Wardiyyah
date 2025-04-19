@@ -34,6 +34,8 @@ Back-End:
 --Augmentation: Rotation, zoom, brightness, flips, etc.
 
 
+## Project Structure
+
 wardiyyah/
 │
 ├── static/
