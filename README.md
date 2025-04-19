@@ -36,21 +36,7 @@ Back-End:
 
 ## Project Structure
 
-wardiyyah/
-│
-├── static/
-│   └── style.css      # Front-end styling
-│   └── script.js      # Front-end interaction logic
-│   └── assets/        # web assets
-│
-├── templates/
-│   └── index.html      # Main page
-│
-├── flower_model.h5          # Trained model
-├── flower_info.json         # Flower names, descriptions, and care info
-├── flower_class_labels.txt  # Class ID mapping
-├── app.py                   # Flask backend server
-├── requirements.txt         # Python dependencies
+wardiyyah/ │ ├── static/ │ ├── style.css # Front-end styling │ ├── script.js # JS logic │ └── assets/ # Visual assets │ ├── templates/ │ └── index.html # Home page │ ├── flower_model.h5 # Trained ML model ├── flower_info.json # Flower details (Arabic & English) ├── flower_class_labels.txt # Class labels ├── app.py # Flask server ├── requirements.txt # Python dependencies
 
 
 ## How to Run Locally
